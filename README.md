@@ -47,13 +47,12 @@
                     <a href="https://getbootstrap.com/" target="_main" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/> </a> &nbsp;
                         <a href="https://reactjs.org/" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> &nbsp;
                             <a href="https://nodejs.org/en" target="_main" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWsxRGhx1BaY6DJbnC38Dq8_s5SkwHppSEN8AIXrQoDw&s" alt="Node.js" width="40" height="40"/> </a> &nbsp;
-                                <a href="https://expressjs.com/" target="_main" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express.js" width="40" height="40"/> </a> &nbsp;
+                                <a href="https://expressjs.com/" target="_main" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express.js" width="40" height="40"/> </a> <br>
                                     <a href="https://www.mongodb.com/" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> &nbsp;
                                         <a href="https://www.php.net/" target="_main" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> </a> &nbsp;
                                             <a href="https://www.mysql.com/" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> &nbsp;
                                                 <a href="https://git-scm.com/" target="_main" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="40" height="40"/> </a> &nbsp;
 </p>
-<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsalimansari&show_icons=true&locale=en&layout=compact" alt="imsalimansari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsalimansari&show_icons=true&locale=en" alt="imsalimansari" /></p>
