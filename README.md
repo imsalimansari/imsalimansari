@@ -14,8 +14,8 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 All of my projects are available at https://linktr.ee/imsalimansari
-<hr>
-- 📫 How to reach me **salimptu01@gmail.com**
+
+- 📫 How to reach me salimptu01@gmail.com
 
 <h3 align="left" text-color="red">Connect with me:</h3>
 <p align="left">
