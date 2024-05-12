@@ -27,10 +27,8 @@
         <a href="https://fb.com/Iamsalimansari" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-white-f.png" alt="Iamsalimansari" height="30" width="40" /></a> &nbsp;
             <a href="https://instagram.com/imsalimansari" target="blank"><img align="center" src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
                 <a href="https://t.me/imsalimansari" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/381/non_2x/telegram-circle-icon-for-web-design-free-png.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
-
-<!--Practice Platform links-->
-    <a href="https://www.hackerrank.com/imsalimansari" target="_main"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
-        <a href="https://www.leetcode.com/imsalimansari" target="_main"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="imsalimansari" height="30" width="40" /></a>
+                    <a href="https://www.hackerrank.com/imsalimansari" target="_main"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
+                        <a href="https://www.leetcode.com/imsalimansari" target="_main"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="imsalimansari" height="30" width="40" /></a>
 </p>
 
 <!--Language and tools links-->
