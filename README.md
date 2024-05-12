@@ -26,15 +26,11 @@
     <a href="https://linkedin.com/in/imsalimansari" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
         <a href="https://fb.com/Iamsalimansari" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-white-f.png" alt="Iamsalimansari" height="30" width="40" /></a> &nbsp;
             <a href="https://instagram.com/imsalimansari" target="blank"><img align="center" src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
-                <a href="https://t.me/imsalimansari" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/381/non_2x/telegram-circle-icon-for-web-design-free-png.png" alt="imsalimansari" height="30" width="40" /></a>
+                <a href="https://t.me/imsalimansari" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/381/non_2x/telegram-circle-icon-for-web-design-free-png.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
 
 <!--Practice Platform links-->
-<hr>
-<a href="https://www.codechef.com/users/salimansari88" target="_main"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="salimansari88" height="30" width="40" /></a> &nbsp;
-    <a href="https://www.hackerrank.com/salimansari88" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salimansari88" height="30" width="40" /></a> &nbsp;
-        <a href="https://www.leetcode.com/salimansari88" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salimansari88" height="30" width="40" /></a> &nbsp;
-            <a href="https://www.hackerearth.com/salimansari88" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="salimansari88" height="30" width="40" /></a> &nbsp;
-                <a href="https://auth.geeksforgeeks.org/user/salimansari2" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="salimansari2" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/imsalimansari" target="_main"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
+        <a href="https://www.leetcode.com/imsalimansari" target="_main"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="imsalimansari" height="30" width="40" /></a>
 </p>
 
 <!--Language and tools links-->
