@@ -1,34 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-
-<h1 align="center">Hi 👋, I'm Salim Ansari</h1>
-<h3 align="center">A Web Developer Enthusiast from India.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imsalimansari&label=Profile%20views&color=0e75b6&style=flat" alt="imsalimansari" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsalimansari" alt="imsalimansari" /></a> </p>
-
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 👨‍💻 All of my projects are available at https://linktr.ee/imsalimansari
-
-- 📫 How to reach me salimptu01@gmail.com
-
-<h3 align="left" text-color="red">Connect with me:</h3>
-<p align="left">
-
-</p>
-</body>
-</html>
-
-### Hi 👋 My name is JAS PREET,
+### Hi 👋 My name is Salim Ansari,
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25FF00&vCenter=true&random=false&width=435&lines=A+Cyber+Security+Analyst;A+Penetration+Tester;A+Cloud+Architect;A+DevOps+Engineer)](https://git.io/typing-svg)
 <!--
-**thebugbounter/thebugbounter** is a ✨  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 ## About Me
@@ -37,11 +9,9 @@ Here are some ideas to get you started:
 
 🌱 Ever the explorer, I'm on a quest to discover the latest tools and techniques in cybersecurity and penetration testing.
 
-👯 Seeking partners in cybercrime... I mean, collaboration! Let's team up on CTF challenges and chase bug bounties together!
+💬 Passionate about penetration testing.
 
-💬 Passionate about all things penetration testing, bug bounty programs, CTFs, and even a bit of DevOps magic. Let's have a nerdy chat!
-
-📫 Drop me a line at [Email](mailto:jaspreetauthentic@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/thebugbounter/). Let's make the digital world a safer place, one vulnerability at a time!
+📫 Drop me a line at [Email](mailto:salimansari7644@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/imsalimansari/). Let's make the digital world a safer place, one vulnerability at a time!
 
 ## Tools & Technologies
 
@@ -64,23 +34,19 @@ Here are some of the tools and technologies I work with:
 - 🌐 [Sublist3r](https://github.com/aboul3la/Sublist3r): A python tool designed to enumerate subdomains of websites.
 - 🌊 [Hydra](https://github.com/vanhauser-thc/thc-hydra): A password-cracking tool for online penetration testing.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebugbounter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thebugbounter) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thebugbounter) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thebugbounter) 
-Feel free to reach out for collaboration, questions, or just to chat about cybersecurity and all things tech!
-
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thebugbounter&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thebugbounter&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thebugbounter&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=imsalimansari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imsalimansari&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsalimansari&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thebugbounter&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=imsalimansari&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Profile visits
-[![](https://visitcount.itsvg.in/api?id=thebugbounter&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=imsalimansari&icon=0&color=5)](https://visitcount.itsvg.in)
