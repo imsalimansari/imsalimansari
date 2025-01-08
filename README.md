@@ -20,44 +20,67 @@
 <h3 align="left" text-color="red">Connect with me:</h3>
 <p align="left">
 
-<!--Social media links-->
-
-<a href="https://twitter.com/imsalimansari" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/x-new-social-network-black-app-icon-twitter-rebranded-as-x-twitter-s-logo-was-changed_277909-649.jpg?size=338&ext=jpg&ga=GA1.1.553209589.1715126400&semt=ais" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
-    <a href="https://linkedin.com/in/imsalimansari" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
-        <a href="https://fb.com/Iamsalimansari" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-white-f.png" alt="Iamsalimansari" height="30" width="40" /></a> &nbsp;
-            <a href="https://instagram.com/imsalimansari" target="blank"><img align="center" src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
-                <a href="https://t.me/imsalimansari" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/381/non_2x/telegram-circle-icon-for-web-design-free-png.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
-                    <a href="https://www.hackerrank.com/imsalimansari" target="_main"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="imsalimansari" height="30" width="40" /></a> &nbsp;
-                        <a href="https://www.leetcode.com/imsalimansari" target="_main"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="imsalimansari" height="30" width="40" /></a>
 </p>
-
-<!--Language and tools links-->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_main" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/> </a> &nbsp;
-        <a href="https://www.geeksforgeeks.org/c-plus-plus/?ref=shm" target="_main" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a> &nbsp;
-            <a href="https://www.python.org/" target="_main" rel="noreferrer"> <img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon.png" alt="Python" width="40" height="40"/> </a> &nbsp;
-                <a href="https://www.linux.org/" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-<hr>
-    <a href=https://developer.mozilla.org/en-US/docs/Web/HTML" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> &nbsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> &nbsp;
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> &nbsp;
-                <a href="https://jquery.com/" target="_main" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jQuery" width="40" height="40"/> </a> &nbsp;
-                    <a href="https://getbootstrap.com/" target="_main" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/> </a> &nbsp;
-                        <a href="https://reactjs.org/" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> &nbsp;
-                            <a href="https://nodejs.org/en" target="_main" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWsxRGhx1BaY6DJbnC38Dq8_s5SkwHppSEN8AIXrQoDw&s" alt="Node.js" width="40" height="40"/> </a> &nbsp;
-                                <a href="https://expressjs.com/" target="_main" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express.js" width="40" height="40"/> </a> <br>
-                                    <a href="https://www.mongodb.com/" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> &nbsp;
-                                        <a href="https://www.php.net/" target="_main" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> </a> &nbsp;
-                                            <a href="https://www.mysql.com/" target="_main" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> &nbsp;
-                                                <a href="https://git-scm.com/" target="_main" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="40" height="40"/> </a> &nbsp;
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsalimansari&show_icons=true&locale=en&layout=compact" alt="imsalimansari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsalimansari&show_icons=true&locale=en" alt="imsalimansari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsalimansari&" alt="imsalimansari" /></p>
-
 </body>
 </html>
+
+### Hi 👋 My name is JAS PREET,
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25FF00&vCenter=true&random=false&width=435&lines=A+Cyber+Security+Analyst;A+Penetration+Tester;A+Cloud+Architect;A+DevOps+Engineer)](https://git.io/typing-svg)
+<!--
+**thebugbounter/thebugbounter** is a ✨  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+## About Me
+
+🔭 Currently delving deep into the realms of penetration testing and vulnerability assessment.
+
+🌱 Ever the explorer, I'm on a quest to discover the latest tools and techniques in cybersecurity and penetration testing.
+
+👯 Seeking partners in cybercrime... I mean, collaboration! Let's team up on CTF challenges and chase bug bounties together!
+
+💬 Passionate about all things penetration testing, bug bounty programs, CTFs, and even a bit of DevOps magic. Let's have a nerdy chat!
+
+📫 Drop me a line at [Email](mailto:jaspreetauthentic@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/thebugbounter/). Let's make the digital world a safer place, one vulnerability at a time!
+
+## Tools & Technologies
+
+Here are some of the tools and technologies I work with:
+
+- 🔧 [Metasploit](https://www.metasploit.com/): Platform for developing, testing, and executing exploit code against a remote machine.
+- 🛡️ [Nmap](https://nmap.org/): Open-source tool for network discovery, security scanning, and auditing.
+- 🚀 [Burp Suite](https://portswigger.net/burp): A leading toolkit for web application security testing.
+- 🔐 [Wireshark](https://www.wireshark.org/): The world's foremost and widely-used network protocol analyzer.
+- 💻 [Kali Linux](https://www.kali.org/): A Debian-based Linux distribution designed for digital forensics and penetration testing.
+- 🐍 [Python](https://www.python.org/): A versatile programming language often used in cybersecurity for scripting and automation.
+- 🕵️‍♂️ [Nessus](https://www.tenable.com/products/nessus): Widely-used vulnerability scanner for identifying vulnerabilities, configuration issues, and malware.
+- 🧰 [OWASP ZAP](https://www.zaproxy.org/): An open-source web application security scanner.
+- 🛠️ [Hashcat](https://hashcat.net/hashcat/): An advanced password recovery tool.
+- 🧲 [Snort](https://www.snort.org/): A powerful Intrusion Detection System (IDS).
+- 📡 [Aircrack-ng](https://www.aircrack-ng.org/): A network software suite consisting of a detector, packet sniffer, WEP and WPA/WPA2-PSK cracker.
+- 🕷️ [SQLMap](https://github.com/sqlmapproject/sqlmap): An automatic SQL injection and database takeover tool.
+- 🛡️ [OpenVAS](https://www.openvas.org/): Open Vulnerability Assessment Scanner for comprehensive vulnerability scanning.
+- 🛑 [OSSEC](https://www.ossec.net/): An open-source Host-based Intrusion Detection System (HIDS).
+- 🌐 [Sublist3r](https://github.com/aboul3la/Sublist3r): A python tool designed to enumerate subdomains of websites.
+- 🌊 [Hydra](https://github.com/vanhauser-thc/thc-hydra): A password-cracking tool for online penetration testing.
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebugbounter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thebugbounter) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thebugbounter) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thebugbounter) 
+Feel free to reach out for collaboration, questions, or just to chat about cybersecurity and all things tech!
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thebugbounter&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thebugbounter&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thebugbounter&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thebugbounter&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### Profile visits
+[![](https://visitcount.itsvg.in/api?id=thebugbounter&icon=0&color=5)](https://visitcount.itsvg.in)
