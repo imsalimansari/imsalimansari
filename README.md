@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 💬 Passionate about penetration testing.
 
-📫 Drop me a line at [Email](mailto:salimansari7644@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/imsalimansari/). Let's make the digital world a safer place, one vulnerability at a time!
+📫 Drop me a line at [Email](href="mailto:salimansari7644@gmail.com") or connect on [LinkedIn](https://www.linkedin.com/in/imsalimansari/). Let's make the digital world a safer place, one vulnerability at a time!
 
 ## Tools & Technologies
 
