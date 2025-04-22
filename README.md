@@ -5,13 +5,13 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-🔭 Currently delving deep into the realms of penetration testing and vulnerability assessment.
+🔭 Currently diving into the world of security operations, threat detection, and incident response.
 
-🌱 Ever the explorer, I'm on a quest to discover the latest tools and techniques in cybersecurity and penetration testing.
+🌱 Always learning and exploring the latest tools and techniques in cybersecurity to enhance my skills and contribute to a safer digital environment.
 
-💬 Passionate about penetration testing.
+💬 Passionate about monitoring, analyzing, and defending against emerging cyber threats.
 
-📫 Drop me a line at [Email](mailto:salimansari7644@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/imsalimansari/). Let's make the digital world a safer place, one vulnerability at a time!
+📫 Drop me a line at [Email](mailto:salimansari7644@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/imsalimansari/). Let’s work together to build stronger security, one threat at a time!
 
 ## Tools & Technologies
 
