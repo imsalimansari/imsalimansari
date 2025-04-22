@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 # 💫 About Me:
-🔭 Currently diving into the world of security operations, threat detection, and incident response.<br><br>🌱 Always learning and exploring the latest tools and techniques in cybersecurity to enhance my skills and contribute to a safer digital environment.<br><br>💬 Passionate about monitoring, analyzing, and defending against emerging cyber threats.
+🔭 Currently diving into the world of security operations, threat detection, and incident response.<br><br>🌱 Always learning and exploring the latest tools and techniques in cybersecurity to enhance my skills and contribute to a safer digital environment.<br><br>💬 Passionate about monitoring, analyzing, and defending against emerging cyber threats.<br><br>
 📫 Drop me a line at [Email](mailto:salimansari7644@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/imsalimansari/). Let’s work together to build stronger security, one threat at a time!
 
 ## 🌐 Socials:
